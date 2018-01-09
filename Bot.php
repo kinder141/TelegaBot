@@ -36,4 +36,17 @@ class TelegramBot
         return $response;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 ?>
